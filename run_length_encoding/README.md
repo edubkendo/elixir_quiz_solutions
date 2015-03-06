@@ -1,0 +1,4 @@
+RunLengthEncoding
+=================
+
+** TODO: Add description **

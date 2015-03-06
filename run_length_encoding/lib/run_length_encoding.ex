@@ -1,0 +1,2 @@
+defmodule RunLengthEncoding do
+end
